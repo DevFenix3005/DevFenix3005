@@ -5,23 +5,52 @@ Mi nombre es Roberto Cazarin, ingeniero en sistemas computacionales. Actualmente
 Desde inicios del 2022 vivo en Estados Unidos, en boston para ser exactos y me gusta por este medio compartir mis desarrollos personales y experimentos que se me ocuren con diferentes tecnologias.
 
 ## Tecnologias que manejo
-[![Java](https://img.shields.io/badge/backend-Java-blue?style=for-the-badge&logo=openjdk)]()</br> 
-[![Python](https://img.shields.io/badge/backend-Python-brightgreen?style=for-the-badge&logo=python)]()</br>
-[![Node.js](https://img.shields.io/badge/backend-nodejs-green?style=for-the-badge&logo=node.js)]()</br> 
-[![React](https://img.shields.io/badge/frontend-React-blue?style=for-the-badge&logo=react)]()</br>
-[![Angular](https://img.shields.io/badge/frontend-Angular-red?style=for-the-badge&logo=angular)]()</br>
-[![Vue](https://img.shields.io/badge/frontend-Vue-green?style=for-the-badge&logo=vue.js)]()</br>
-[![Postgresql](https://img.shields.io/badge/database-Postgresql-blue?style=for-the-badge&logo=postgresql)]()</br>
-[![Oracle](https://img.shields.io/badge/database-Oracle-red?style=for-the-badge&logo=oracle)]()</br>
-[![MySQL](https://img.shields.io/badge/database-MySQL-yellow?style=for-the-badge&logo=mysql)]()</br>
-[![Wildfly](https://img.shields.io/badge/servidor-Wildfly-white?style=for-the-badge&logo=wildfly)]()</br>
-[![Tomcat](https://img.shields.io/badge/servidor-Tomcat-yellow?style=for-the-badge&logo=apache-tomcat)]()</br>
-[![Gcloud](https://img.shields.io/badge/servicio%20en%20la%20nube-GCloud-red?style=for-the-badge&logo=googlecloud)]()</br>
-[![AWS](https://img.shields.io/badge/servicio%20en%20la%20nube-AWS-yellow?style=for-the-badge&logo=amazon-aws)]()</br>
-[![Android](https://img.shields.io/badge/mobile-Android%20Kotlin/Java-green?style=for-the-badge&logo=android)]()</br>
-[![Firebase](https://img.shields.io/badge/serivico%20en%20la%20nube-Firebase-red?style=for-the-badge&logo=firebase)]()</br>
 
-Y algunas mas.
+### Lenguajes de programacion
+[![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)]()
+[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]()
+[![Typescript](https://img.shields.io/badge/Typescript-navy?style=for-the-badge&logo=typescript)]()
+
+### Backend
+[![Java](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot)]()
+[![Python](https://img.shields.io/badge/Flask-brightgreen?style=for-the-badge&logo=flask)]()
+[![Python](https://img.shields.io/badge/Django-brightgreen?style=for-the-badge&logo=django)]()
+[![Node.js](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)]()
+[![Node.js](https://img.shields.io/badge/Nest-red?style=for-the-badge&logo=nestjs)]()
+
+### Frontend
+[![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)]()
+[![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)]()
+[![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vue.js)]()
+
+### Bases de datos
+[![Postgresql](https://img.shields.io/badge/Postgresql-blue?logoColor=white&style=for-the-badge&logo=postgresql)]()
+[![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)]()
+[![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql)]()
+
+### Servidores
+[![Wildfly](https://img.shields.io/badge/Wildfly-white?style=for-the-badge&logo=wildfly)]()
+[![Tomcat](https://img.shields.io/badge/Tomcat-black?style=for-the-badge&logo=apache-tomcat)]()
+[![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=NGINX&logoColor=green)]()
+[![Traefik](https://img.shields.io/badge/Traefik-blue?style=for-the-badge&logo=Traefik-Proxy)]()
+[![Ngrok](https://img.shields.io/badge/Ngrok-orange?style=for-the-badge&logo=ngrok)]()
+
+### Servicios en la nube
+[![Gcloud](https://img.shields.io/badge/GCloud-red?style=for-the-badge&logo=googlecloud)]()
+[![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazon-aws)]()
+[![Firebase](https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=firebase)]()
+
+### Programacion movil
+[![Android](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=android)]()
+[![Android](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=android)]()
+
+### Servicios de contenedores
+[![Docker](https://img.shields.io/badge/Docker-navy?style=for-the-badge&logo=docker)]()
+
+## Mis stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFenix3005&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFenix3005&layout=compact)
 
 ## Proyecto personales
 ### QaRobot
