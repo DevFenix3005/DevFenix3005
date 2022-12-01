@@ -64,6 +64,7 @@ Quiere saber mas!? vamos, [QaRobot](https://github.com/DevFenix3005/QaRobot)
 
 ### Unitfy
 Proyecto de conversion de unidades, tambien fue desarrollado para un reto de programacion de mouredev, en este reto se necesitaba hacer un conversor de unidades, yo lo hice con andorid y kotlin y para poderle poner dinamismo utilice una libreria en java para la resolucion de ecuaciones matematicas, esto para alojar las conversiones de destino y fuente en la base de y la libreria las resolviera, todo esto en lugar de que se tuvieran que implementar clases para hacer las conversiones.
+
 Quiere saber mas!? vamos, [Unitfy](https://github.com/DevFenix3005/unitfy)
 
 ### Forgecity
