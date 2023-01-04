@@ -48,6 +48,8 @@ Desde inicios del 2022 vivo en Estados Unidos, en boston para ser exactos y me g
 
 ### Servicios de contenedores
 [![Docker](https://img.shields.io/badge/Docker-navy?style=for-the-badge&logo=docker)]()
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-navy?style=for-the-badge&logo=docker)]()
+[![Podman](https://img.shields.io/badge/Podman-navy?style=for-the-badge&logo=Podman)]()
 
 ## Mis stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFenix3005&show_icons=true)
